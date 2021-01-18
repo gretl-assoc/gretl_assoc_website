@@ -1,0 +1,4 @@
+[submodule "gretl-assoc/public"]
+	path = gretl-assoc/public
+	url = git@github.com:gretl-assoc/gretl-assoc.github.io.git
+	branch = main

@@ -1,0 +1,4 @@
+baseURL = "http://gretl-assoc.github.io/"
+languageCode = "en-us"
+title = "Gretl Association"
+theme = "ananke"
