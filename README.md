@@ -1,3 +1,3 @@
 # How-to work with Hugo
 
-For a how-to see [here](https://github.com/atecon/atecon.github.io).
+For a how-to see [here](https://github.com/atecon/blog).
