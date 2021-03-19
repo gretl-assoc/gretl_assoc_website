@@ -1,6 +1,6 @@
 baseURL = "http://gretl-assoc.github.io/"
 languageCode = "de"
-# title = "Gretl Association"
+# title = "gretl Association"
 theme = "ananke"
 
 DefaultContentLanguage = "de"
@@ -11,7 +11,7 @@ enableRobotsTXT = true
 
 [languages]
   [languages.de]
-    title = "Gretl Association"
+    title = "gretl Association"
     weight = 1
     contentDir = "content/de"
     languageName = "Deutsch"
@@ -47,7 +47,7 @@ enableRobotsTXT = true
 [[languages.de.menu.main]]
   [[menu.main]]
     identifier = "gretl"
-    name = "Gretl"
+    name = "gretl"
     url = "/gretl"
     weight = 1
   [[menu.main]]
@@ -69,7 +69,7 @@ enableRobotsTXT = true
 [[languages.en.menu.main]]
   [[menu.main]]
     identifier = "gretl"
-    name = "Gretl"
+    name = "gretl"
     url = "/gretl"
     weight = 1
   [[menu.main]]
