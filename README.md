@@ -1,5 +1,6 @@
 # Website-repo
-This repo is used for storing the code.
+This repo is used for storing the code for the website: https://gretl-assoc.github.io/.
+
 Also see: https://youtu.be/LIFvgrRxdt4
 
 # How-to work with Hugo
