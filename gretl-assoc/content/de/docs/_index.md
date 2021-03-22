@@ -3,9 +3,12 @@ title: "Dokumente"
 date: 2021-03-19T17:48:54+01:00
 ---
 
-- Mitgliedsantrag
-- Satzung
-- Jahresberichte
-- Protokoll
+[Vereinssatzung](https://github.com/gretl-assoc/documents/blob/main/satzung/Satzung.pdf)
 
-siehe dazu: https://python-verband.org/verband
+Mitgliedsantrag: folgt später
+
+Jahresbericht: folgt später
+
+Protokoll: folgt später
+
+
