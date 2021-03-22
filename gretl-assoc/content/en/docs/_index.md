@@ -4,6 +4,6 @@ date: 2021-03-19T17:48:54+01:00
 ---
 
 - membership application
-- Bylaw
+- Bylaws
 - Annual report
 - Protocol

@@ -16,7 +16,7 @@ enableRobotsTXT = true
     contentDir = "content/de"
     languageName = "Deutsch"
   [languages.en]
-    title = "Association"
+    title = "gretl Association"
     weight = 2
     contentDir = "content/en"
     languageName = "English"
