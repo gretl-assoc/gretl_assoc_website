@@ -28,3 +28,5 @@ Den aktuellen Vorstand bilden:
 - PD Dr. Sven Schreiber (1. Vorsitzender)
 - Dr. Artur Tarassow (2. Vorsitzender)
 
+# Kontakt
+Sie können uns via [Email](gretl_association@mailbox.org) erreichen.
