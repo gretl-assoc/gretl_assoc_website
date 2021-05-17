@@ -3,11 +3,11 @@ title: "Mitgliedschaft"
 date: 2021-01-18T17:48:54+01:00
 ---
 
-Zuerst einmal freuen wir uns sehr über ihr Interesse an unserem Verein!
+Zuerst einmal freuen wir uns sehr über Ihr Interesse an unserem Verein!
 
 Der Mitgliedsbeitrag beträgt aktuell für:
 
-- Studenten: 12€ pro Jahr (bitte Nachweis beifügen)
+- Studierende: 12€ pro Jahr (bitte Nachweis beifügen)
 
 - Andernfalls: 18€ pro Jahr
 
@@ -30,7 +30,7 @@ Folgende Zahlungsmöglichkeiten bestehen:
 </div>
 
 
-Nutzen Sie bitte die folgende Muster-Email für den Mitgliedsantrag [an uns](gretl_association@mailbox.org):
+Nutzen Sie bitte die folgende Muster-Email für den Mitgliedsantrag an uns (gretl_association@mailbox.org):
 
 
 	Guten Tag,
@@ -49,7 +49,7 @@ Nutzen Sie bitte die folgende Muster-Email für den Mitgliedsantrag [an uns](gre
 
 	Anschrift: Straße 17
 	PLZ: 12345
-	Stadt: Berlin
+	Stadt: MEINE_STADT
 
 
 	Mit freundlichem Gruß,
