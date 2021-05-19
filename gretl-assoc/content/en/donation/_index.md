@@ -4,8 +4,9 @@ date: 2021-01-18T17:48:54+01:00
 ---
 
 ## Support free software
-
 With your donation you are supporting our association's targets to promote science, research and education.
+
+<!---
 
 Please fill out the following email template, and send it to us (gretl_association@mailbox.org):
 
@@ -16,8 +17,8 @@ Please fill out the following email template, and send it to us (gretl_associati
 
 	My data is as follows:
 
-	Name: Musterman
-	Vorname: Max
+	Surname: Musterman
+	First name: Max
 	eMail: max.musterman@email.com
 
 	Category:
@@ -42,6 +43,7 @@ Please fill out the following email template, and send it to us (gretl_associati
 
 	Max Musterman
 
+-->
 
 
 The following payment options exist:
@@ -58,3 +60,5 @@ The following payment options exist:
 
 
 We thank you very much for your financial support!
+
+You can reach us via: gretl_association@mailbox.org

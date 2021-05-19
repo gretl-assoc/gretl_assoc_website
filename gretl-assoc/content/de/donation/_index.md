@@ -67,5 +67,5 @@ Spenden an uns sind gemäß § 10b des Einkommenssteuergesetzes in Deutschland s
 informieren Sie uns (gretl_association@mailbox.org) bitte darüber!
 
 ### Hintergrund
-Wir sind wegen der Förderung der Wissenschaft, Forschung und Bildung nach dem letzten uns zugegangenen Freistellungsbescheid des Finanzamtes Berlin für Körperschaften I, StNr. XX/XXX/XXX, vom XX.XX.2021 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftsteuer befreit.
+Wir sind wegen der Förderung der Wissenschaft, Forschung und Bildung nach dem letzten uns zugegangenen Feststellungsbescheid des Finanzamtes Berlin für Körperschaften I, StNr. 27 / 640 / 61305, vom 16.04.2021 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftsteuer befreit.
 

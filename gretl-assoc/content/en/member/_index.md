@@ -23,7 +23,7 @@ The following payment options exist:
 
 **PayPal**:
 * Receiver: gretl_association@mailbox.org
-* Designated use: "Donation, MY_EMAIL_ADDRESS"
+* Designated use: "Membership fee, MY_EMAIL_ADDRESS"
 
 
 Please fill out the following email template, and send it to us (gretl_association@mailbox.org):
@@ -34,8 +34,8 @@ Please fill out the following email template, and send it to us (gretl_associati
 
 	My data is as follows:
 
-	Name: Musterman
-	Vorname: Max
+	Surname: Musterman
+	First name: Max
 	eMail: max.musterman@email.com
 
 

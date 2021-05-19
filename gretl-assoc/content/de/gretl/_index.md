@@ -12,4 +12,4 @@ Gretl ist ein freies Statistik- und Ökonometrieprogramm mit einer domänen-spez
 
 Detaillierte (und technische!) Informationen rund um gretl gibt es auf der [offiziellen Webseite](http://gretl.sourceforge.net/).
 
-Den Kern des gretl Teams bilden [Allin Cottrell](http://users.wfu.edu/cottrell/) und [Riccardo "Jack" Lucchetti](http://www2.econ.univpm.it/servizi/hpp/lucchetti/ects_en.html).
+Den Kern des gretl Teams bilden [Allin Cottrell](http://users.wfu.edu/cottrell/) und [Riccardo "Jack" Lucchetti](http://www2.econ.univpm.it/servizi/hpp/lucchetti/Home_en.html).

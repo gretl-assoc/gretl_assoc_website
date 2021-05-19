@@ -29,4 +29,4 @@ Den aktuellen Vorstand bilden:
 - Dr. Artur Tarassow (2. Vorsitzender)
 
 # Kontakt
-Sie können uns via [Email](gretl_association@mailbox.org) erreichen.
+Sie können uns via Email erreichen: gretl_association@mailbox.org
