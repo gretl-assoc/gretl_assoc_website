@@ -66,6 +66,9 @@ Folgende Zahlungsmöglichkeiten bestehen:
 Spenden an uns sind gemäß § 10b des Einkommenssteuergesetzes in Deutschland steuerlich abzugsfähig. Aktuell ist dies nur in Deutschland der Fall. Wir versenden die Spendenbescheinigungen grundsätzlich immer am Anfang des Folgejahres. Falls Sie die Spendenbescheinigung früher brauchen,
 informieren Sie uns (gretl_association@mailbox.org) bitte darüber!
 
+Hintergrund ist der Feststellungsbescheid des Finanzamtes Berlin für Körperschaften I, StNr. 27 / 640 / 61305, vom 16.04.2021.
+
+<!---
 ### Hintergrund
 Wir sind wegen der Förderung der Wissenschaft, Forschung und Bildung nach dem letzten uns zugegangenen Feststellungsbescheid des Finanzamtes Berlin für Körperschaften I, StNr. 27 / 640 / 61305, vom 16.04.2021 nach § 5 Abs. 1 Nr. 9 des Körperschaftsteuergesetzes von der Körperschaftsteuer befreit.
-
+-->
