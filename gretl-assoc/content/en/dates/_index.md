@@ -5,13 +5,17 @@ date: 2021-03-19T18:48:54+01:00
 
 ## Forthcoming events
 
+### gretl Association Assembly 2022
+- Takes place on March 28 2022
+- Online video conference using BigBlueButton (URL on request)
+
+
+## Historical events
 ### gretl Online Conference 2021
 - Takes place on June 4 2021
 - Keynote speaker: [Mark Steel, University of Warwick](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/)
 - More information: https://www.gretlconference.org/2021-conference
 
-
-## Historical events
 ### 6th gretl Conference 2019
 https://sites.google.com/view/gretl2019
 
