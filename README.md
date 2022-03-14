@@ -4,4 +4,4 @@ This repo is used for storing the code for the website: https://gretl-assoc.gith
 Also see: https://youtu.be/LIFvgrRxdt4
 
 # How-to work with Hugo
-For a how-to see [here](https://github.com/atecon/blog).
+For a how-to see [here](https://github.com/atecon/atecon_blog).
