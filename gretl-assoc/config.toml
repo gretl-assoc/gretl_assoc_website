@@ -11,12 +11,12 @@ enableRobotsTXT = true
 
 [languages]
   [languages.de]
-    title = "gretl Association"
+    #title = "gretl Association"
     weight = 1
     contentDir = "content/de"
     languageName = "Deutsch"
   [languages.en]
-    title = "gretl Association"
+    #title = "gretl Association"
     weight = 2
     contentDir = "content/en"
     languageName = "English"
@@ -30,8 +30,8 @@ enableRobotsTXT = true
   toc = true
   body_classes = "avenir bg-near-white"
   # site_logo = "static/header_images.png"
-  favicon = ""
-  site_logo = ""
+  # favicon = "/images/sample_6_short.jpeg"
+  # site_logo = "/images/sample_6_short.jpeg"
   # description = "The last theme you'll ever need. Maybe."
   instagram = ""
   youtube = ""
@@ -40,7 +40,8 @@ enableRobotsTXT = true
   background_color_class = "bg-gray"
   # featured_image = "/images/isaac-smith-AT77Q0Njnt0-unsplash-1.jpg"
   # featured_image = "/images/joshua-sortino-LqKhnDzSF-8-unsplash.jpg"
-  featured_image = "/images/pietro-jeng-n6B49lTx7NM-unsplash.jpg"
+  # featured_image = "/images/pietro-jeng-n6B49lTx7NM-unsplash.jpg"
+  featured_image = "/images/sample_6_leinwand.jpg"
   recent_posts_number = 2
   # show_reading_time = true
 
