@@ -5,12 +5,18 @@ date: 2021-03-19T18:48:54+01:00
 
 ## Forthcoming events
 
+### 8th gretl conference 2023
+- Will be held in Gdańsk, Poland, on June 15-16, 2023
+- Keynote speaker: [Mark Steel, New York University in Florence](https://rcea.academia.edu/GiampieroMGallo)
+- More information: https://gretlconference.org/index.php/category/gc2023/
+
+
+## Historical events
+
 ### gretl Association Assembly 2022
 - Takes place on March 28 2022
 - Online video conference using BigBlueButton (URL on request)
 
-
-## Historical events
 ### gretl Online Conference 2021
 - Takes place on June 4 2021
 - Keynote speaker: [Mark Steel, University of Warwick](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/)

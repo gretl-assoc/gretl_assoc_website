@@ -1,16 +1,19 @@
 ---
 title: "Termine"
-date: 2021-03-19T17:48:54+01:00
+date: 2023-04-03T17:48:54+01:00
 ---
 
 ## Aktuelle Termine
 
+### 8. gretl Konferenz 2023
+- Findet statt am 15.6. und 16.6.2023 in Danzig (Polen)
+- Keynote speaker: [Mark Steel, New York University in Florence](https://rcea.academia.edu/GiampieroMGallo)
+- Mehr Informationen unter: https://gretlconference.org/index.php/category/gc2023/
+
+## Vergangene Termine
 ### gretl Association e.V. Vereinssitzung 2022
 Wann: am 28.3.2022 ab 18 Uhr
 
-Zuschaltung per Videokonferenz/ BigBlueButton möglich (URL auf Anfrage)
-
-## Vergangene Termine
 ### gretl Online Conference 2021
 - Findet statt am 4.6.2021
 - Keynote speaker: [Mark Steel, University of Warwick](https://warwick.ac.uk/fac/sci/statistics/staff/academic-research/steel/)
